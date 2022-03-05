@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\C# Intro\\Task Month\\Task Month\\Task Month.csproj",
-      "projectName": "Task Month",
-      "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\C# Intro\\Task Month\\Task Month\\Task Month.csproj",
+      "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\C# Intro\\c intro practice\\c intro practice\\c intro practice.csproj",
+      "projectName": "c intro practice",
+      "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\C# Intro\\c intro practice\\c intro practice\\c intro practice.csproj",
       "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\C# Intro\\Task Month\\Task Month\\obj\\",
+      "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\C# Intro\\c intro practice\\c intro practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",

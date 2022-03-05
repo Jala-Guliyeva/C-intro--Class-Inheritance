@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\bin\Debug\netcoreapp3.1\c intro practice.exe
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\bin\Debug\netcoreapp3.1\c intro practice.deps.json
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\bin\Debug\netcoreapp3.1\c intro practice.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\bin\Debug\netcoreapp3.1\c intro practice.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\bin\Debug\netcoreapp3.1\c intro practice.dll
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\bin\Debug\netcoreapp3.1\c intro practice.pdb
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\obj\Debug\netcoreapp3.1\c intro practice.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\obj\Debug\netcoreapp3.1\c intro practice.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\obj\Debug\netcoreapp3.1\c intro practice.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\obj\Debug\netcoreapp3.1\c intro practice.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\obj\Debug\netcoreapp3.1\c intro practice.dll
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\obj\Debug\netcoreapp3.1\c intro practice.pdb
+C:\Users\TOSHIBA\Desktop\C# Intro\c intro practice\c intro practice\obj\Debug\netcoreapp3.1\c intro practice.genruntimeconfig.cache
