@@ -14,48 +14,68 @@ namespace Methods
             //Console.WriteLine(Repeat("Ha!", 5));
             //Task2
             //Task3
-            Random rnd = new Random();
-            int[] numeral = new int[10];
-            for (int i = 0; i < numeral.Length; i++)
-            {
-                numeral[i] = rnd.Next(1, 50);
-            }
-            Console.WriteLine("The sum of the elements in an array :" + Number(numeral));
-            Console.ReadKey();
+            //Random rnd = new Random();
+            //int[] numeral = new int[10];
+            //for (int i = 0; i < numeral.Length; i++)
+            //{
+            //    numeral[i] = rnd.Next(1, 50);
+            //}
+            //Console.WriteLine("The sum of the elements in an array :" + Number(numeral));
+            //Console.ReadKey();
             ////Task3
+            //Task4
+            Console.WriteLine(Area(5));
+            //Task4
 
             static double Metod(double num1, double num2)
             {
                 #region Task1
 
-                ////    //return num1 / num2;
+                //    ////    //return num1 / num2;
                 #endregion
             }
 
             static string Repeat(string word, int count)
-                {
+            {
 
-                    #region Task2
-                    //    //    //var result = string.Empty;
+                #region Task2
+                     //    //var result = string.Empty;
 
-                    //    //    //for (var i = 0; i < count; i++)
-                    //    //    //    result += word;
+                   //    //for (var i = 0; i < count; i++)
+                  //    result += word;
 
-                    //    //    //return result;
-                    #endregion
+                 //    //return result;
+                #endregion
 
 
-                }
-              
+            }
+
             static int Number(int[] arr)
             {
                 #region Task3
-                int total = 0;
-                for (int i = 0; i < arr.Length; ++i)
-                    total += arr[i];
-                return total;
+                //    int total = 0;
+                //    for (int i = 0; i < arr.Length; ++i)
+                //        total += arr[i];
+                //    return total;
                 #endregion
             }
         }
-    }
-}
+
+
+            static int Area(int r)
+
+            {
+                int p = 3;
+                return 3 * r * r;
+            }
+            static int Area(int a, int b)
+            {
+                return a * b;
+            }
+            static int Area(int a, int b, int c, int r)
+            {
+                int P = (a + b + c) / 2;
+                return P * r;
+            }
+}    }
+
