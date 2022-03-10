@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\obj\Debug\netcoreapp3.1\Class, Inheritance.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\obj\Debug\netcoreapp3.1\Class, Inheritance.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\obj\Debug\netcoreapp3.1\Class, Inheritance.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\obj\Debug\netcoreapp3.1\Class, Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\bin\Debug\netcoreapp3.1\Class, Inheritance.exe
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\bin\Debug\netcoreapp3.1\Class, Inheritance.deps.json
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\bin\Debug\netcoreapp3.1\Class, Inheritance.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\bin\Debug\netcoreapp3.1\Class, Inheritance.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\bin\Debug\netcoreapp3.1\Class, Inheritance.dll
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\bin\Debug\netcoreapp3.1\Class, Inheritance.pdb
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\obj\Debug\netcoreapp3.1\Class, Inheritance.dll
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\obj\Debug\netcoreapp3.1\Class, Inheritance.pdb
+C:\Users\TOSHIBA\Desktop\C# Intro\Class, Inheritance\Class, Inheritance\obj\Debug\netcoreapp3.1\Class, Inheritance.genruntimeconfig.cache

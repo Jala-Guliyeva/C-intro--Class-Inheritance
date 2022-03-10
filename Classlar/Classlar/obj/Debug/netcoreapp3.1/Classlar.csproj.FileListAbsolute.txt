@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.exe
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.deps.json
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.dll
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\bin\Debug\netcoreapp3.1\Classlar.pdb
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.dll
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.pdb
+C:\Users\TOSHIBA\Desktop\Classlar\Classlar\obj\Debug\netcoreapp3.1\Classlar.genruntimeconfig.cache
