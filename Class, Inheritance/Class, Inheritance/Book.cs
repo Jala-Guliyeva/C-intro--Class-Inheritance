@@ -16,14 +16,13 @@ namespace Class__Inheritance
         }
         public void GetInfo()
         {
-            Console.WriteLine($"{aouthorName},{pageCount},{discountPercent},{ name},{costPrice },{saledPrice }");
+            Console.WriteLine($"{aouthorName}  {pageCount}  {discountPercent}");
 
         }
-        public double GetDiscountedPrice(double actualprice)
+        public double GetDiscountedPrice()
 
         {
-            double r = 0.1;
-            return actualprice * (1 - r);
+            return (saledPrice - (salePrice * discountPercent) / 100);
            
 
         }

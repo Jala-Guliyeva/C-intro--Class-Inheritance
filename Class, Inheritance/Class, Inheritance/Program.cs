@@ -13,31 +13,19 @@ namespace Class__Inheritance
             info.aouthorName = "Elxan Elatli";
             info.pageCount = 210;
             info.discountPercent = 25;
-            info.saledPrice = 20;
-           
+            info.saledPrice = 35;
+            info.salePrice = 50;
             info.costPrice = 15;
             info.name = "Xeyanet";
             info.GetInfo();
+            Console.WriteLine(info.GetDiscountedPrice());
 
 
 
         }
 
     }
-    //internal class Product
-    //{
-    //    //fields
-    //    public string name;
-    //    public int costPrice;
-    //    public int saledPrice;
-    //}
-    //internal class Book:Product
-    //{
-    //    public string aouthorName;
-    //    public int pageCount;
-    //    public double discountPercent;
-
-
+   
        
-    //}
+ 
 }
